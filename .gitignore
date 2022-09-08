@@ -1,5 +1,6 @@
 .venv
 .env
-data/*.json
+data/articles.json
+data/flights.json
 .__pycache__
 .DS_Store
